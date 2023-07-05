@@ -1,6 +1,6 @@
-#h1 header
-#h2 header
-#h3 header
-#h4 header
-#h5 header
-#h6 header
+#H1 HEADER
+#H2 HEADER
+#H3 HEADER
+#H4 HEADER
+#H5 HEADER
+#H6 HEADER
